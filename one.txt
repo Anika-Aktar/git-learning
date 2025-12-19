@@ -1,0 +1,2 @@
+This is the second folder that is connected to github. Because we are initializing one particular file to the git. and this second 
+file is initialized as well as pushed to the git.
